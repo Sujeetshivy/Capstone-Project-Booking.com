@@ -6,8 +6,7 @@ This capstone is divided into 4 Phase.
  Phase 1   
  Web scrapping the URL along 12 cities names provided at bottom of page.
 Booking.com
-\nhttps://www.booking.com/index.en-gb.html?aid=397646&label=yho748jc-1DCAEoggI46AdIM1gDaGyIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Ap3Y96YGwAIB0gIkY2NlMDIyZmItZDdlZi00MWVkLWE5YzUtNmIzNmE1NWI3MDU32AIE4AIB&sid=0cb28093647b47834b4f3a02e11acd13&keep_landing=1&sb_price_type=total&
-\n
+https://www.booking.com/index.en-gb.html?aid=397646&label=yho748jc-1DCAEoggI46AdIM1gDaGyIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Ap3Y96YGwAIB0gIkY2NlMDIyZmItZDdlZi00MWVkLWE5YzUtNmIzNmE1NWI3MDU32AIE4AIB&sid=0cb28093647b47834b4f3a02e11acd13&keep_landing=1&sb_price_type=total&
 Go bottom of page and start navigating in CITIES tab:
 12 Cities Name given below
 1 Dubai, United Arab Emirates
