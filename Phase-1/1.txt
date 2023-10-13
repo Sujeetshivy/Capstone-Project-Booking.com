@@ -1,0 +1,16 @@
+Web scrapping the URL along 12 cities names provided at bottom of page.
+Booking.com
+Go bottom of page and start navigating in CITIES tab:
+12 Cities named below
+1 Dubai, United Arab Emirates
+2 London, United Kingdom
+3 Kuala Lumpur, Malaysia
+4 Manchester
+5 New Delhi
+6 Birmingham
+7 Berlin
+8 Sydney
+9 Melbourne
+10  Paris
+11 Tokyo
+12 Toronto
